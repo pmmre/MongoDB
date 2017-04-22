@@ -56,7 +56,7 @@ Cambio de nombre
 
 > db.usuarios.find()
 
-```
+<code>
 { "_id" : ObjectId("58d5135109655d6e9af14b1e"), "nombre" : "Test", "edad" : 23 }
 { "_id" : ObjectId("58d513f309655d6e9af14b20"), "nombre" : "Test", "edad" : 23 }
 { "_id" : ObjectId("58d51a7109655d6e9af14b21"), "nombre" : "Otro" }
@@ -65,7 +65,7 @@ Cambio de nombre
 { "_id" : ObjectId("58d51baf09655d6e9af14b24"), "nombre" : "Eduardo", "edad" : 23 }
 { "_id" : ObjectId("58d51d5209655d6e9af14b25"), "nombre" : "Test uno" }
 { "_id" : ObjectId("58d51d5209655d6e9af14b26"), "nombre" : "Test dos" }
-```
+</code>
 
 > db.usuarios.save(test)
 
