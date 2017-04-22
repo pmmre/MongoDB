@@ -1,6 +1,6 @@
 # Update 1
 
-> uno  = { nombre: "Test uno" }
+```> uno  = { nombre: "Test uno" }```
 { "nombre" : "Test uno" }
 > dos = {nombre = "Test dos"}
 2017-03-24T14:20:53.096+0100 E QUERY    [thread1] SyntaxError: missing : after property id @(shell):1:14
